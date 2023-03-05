@@ -4,7 +4,7 @@
 
 ## Junior Frontend Developer
 
-![photo](img/photo_cv_BorisNovi.png)
+![some photo](img/photo_cv_BorisNovi.png)
 
 ### Contacts
 * **Phone:** +995 557 614 460 (Georgia)
