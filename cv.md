@@ -15,7 +15,7 @@ ___
 
 ___
 
-#### About me
+### About me
 Experience as a lead engineer for satellite monitoring systems and precision agriculture systems. Studying JS/HTML/CSS, doing small projects for self-development. I aspire to become a frontend developer. I want to not be tied to a place like in previous engineering positions and do really interesting work.
 
 ___
