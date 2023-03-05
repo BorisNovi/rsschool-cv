@@ -10,7 +10,7 @@
 ___
 
 ### Contacts
-* **Phone:** +995 557 614 460 (Georgia)
+* **Phone:** +995 557 61 44 60 (Georgia)
 * **Email:** borisnovikov4815@gmail.com
 * **Discord:** Boris (@BorisNovi)
 
