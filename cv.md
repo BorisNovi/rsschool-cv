@@ -78,16 +78,16 @@ ___
 
 ### Experience
 **Junior Dev**
-* Work with VK API [Github:](https://github.com/BorisNovi/littleTasks/tree/master/APIToLearn)
+* Work with VK API [Github](https://github.com/BorisNovi/littleTasks/tree/master/APIToLearn)
 * Work with Kitsu API (Not pushed, only on local machine)
-* Studying project for LearnJS [Github:](https://github.com/BorisNovi/jsbasic-20221028_borisnovikov4815)
+* Studying project for LearnJS [Github](https://github.com/BorisNovi/jsbasic-20221028_borisnovikov4815)
 
 ___
 
 ### Education 
 * Rostov Autotransport College 
 * Rostov Railway Transport University
-* Javascript Course by learn.javascript.ru "JavaScript/DOM/Interfaces" [Certificate:](https://learn.javascript.ru/courses/jsbasic-20221028/borisnovikov4815/en/certificate.jpg)
+* Javascript Course by learn.javascript.ru "JavaScript/DOM/Interfaces" [Certificate](https://learn.javascript.ru/courses/jsbasic-20221028/borisnovikov4815/en/certificate.jpg)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ___
