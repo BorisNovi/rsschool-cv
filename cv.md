@@ -12,6 +12,9 @@ ___
 * **Phone:** +995 557 614 460 (Georgia)
 * **Email:** borisnovikov4815@gmail.com
 * **Discord:** Boris (@BorisNovi)
+
+___
+
 #### About me
 Experience as a lead engineer for satellite monitoring systems and precision agriculture systems. Studying JS/HTML/CSS, doing small projects for self-development. I aspire to become a frontend developer. I want to not be tied to a place like in previous engineering positions and do really interesting work.
 
