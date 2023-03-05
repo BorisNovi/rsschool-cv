@@ -5,7 +5,7 @@
 
 ## Junior Frontend Developer
 
-![some photo](img/photo_cv_BorisNovi.png)
+![some photo](https://img.freepik.com/free-vector/geometric-abstract-element-vector-technology-concept-connecting-dots-design_53876-151120.jpg?w=740&t=st=1678048660~exp=1678049260~hmac=e046cdcb0bbc9fef0fb16045e1a2da5b0039da9c2ab322e98fb5a7c696b26932)
 
 ___
 
@@ -78,9 +78,9 @@ ___
 
 ### Experience
 **Junior Dev**
-* Work with VK API https://github.com/BorisNovi/littleTasks/tree/master/APIToLearn
+* Work with VK API [Github:](https://github.com/BorisNovi/littleTasks/tree/master/APIToLearn)
 * Work with Kitsu API (Not pushed, only on local machine)
-* Studying project for LearnJS https://github.com/BorisNovi/jsbasic-20221028_borisnovikov4815
+* Studying project for LearnJS [Github:](https://github.com/BorisNovi/jsbasic-20221028_borisnovikov4815)
 
 ___
 
