@@ -1,1 +1,1 @@
-https://BorisNovi.github.io/rsschool-cv/cv
+https://BorisNovi.github.io/rsschool-cv/cv *
