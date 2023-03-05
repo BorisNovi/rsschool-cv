@@ -1,26 +1,26 @@
 # rsschool-cv
 
-## Novikov Boris
+# Novikov Boris
 
-### Junior Frontend Developer
+## Junior Frontend Developer
 
 ![photo](img/photo_cv_BorisNovi.png)
 
-#### Contacts
+### Contacts
 * **Phone:** +995 557 614 460 (Georgia)
 * **Email:** borisnovikov4815@gmail.com
 * **Discord:** Boris (@BorisNovi)
 #### About me
 Experience as a lead engineer for satellite monitoring systems and precision agriculture systems. Studying JS/HTML/CSS, doing small projects for self-development. I aspire to become a frontend developer. I want to not be tied to a place like in previous engineering positions and do really interesting work.
 
-#### Skills
+### Skills
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
 * VS Code, Webstorm
 * Adobe Photoshop, Adobe Lightroom
 
-#### Code samples
+### Code samples
 
 * Code snippet for the Kitsu API, which requests data from the server.
 
@@ -64,19 +64,19 @@ function narcissistic(value) {
 };
 ```
 
-#### Experience
+### Experience
 **Junior Dev**
 * Work with VK API https://github.com/BorisNovi/littleTasks/tree/master/APIToLearn
 * Work with Kitsu API (Not pushed, only on local machine)
 * Studying project for LearnJS https://github.com/BorisNovi/jsbasic-20221028_borisnovikov4815
 
-#### Education 
+### Education 
 * Rostov Autotransport College 
 * Rostov Railway Transport University
-* Javascriot Course by learn.javascript.ru "JavaScript/DOM/Interfaces" [Sertificate:](https://learn.javascript.ru/courses/jsbasic-20221028/borisnovikov4815/en/certificate.jpg)
+* Javascript Course by learn.javascript.ru "JavaScript/DOM/Interfaces" [Certificate:](https://learn.javascript.ru/courses/jsbasic-20221028/borisnovikov4815/en/certificate.jpg)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
-#### Languages
+### Languages
 * Russian (*Native*)
 * English (*Intermediate*)
 * Italian (*Elementary*)
