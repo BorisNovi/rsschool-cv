@@ -13,7 +13,6 @@ ___
 * **Email:** borisnovikov4815@gmail.com
 * **Discord:** Boris (@BorisNovi)
 
-smth
 ___
 
 ### About me
