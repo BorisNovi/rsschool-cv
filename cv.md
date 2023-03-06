@@ -78,7 +78,7 @@ ___
 
 ### Experience
 **Junior Dev**
-* Work with VK API [Look on GitHub](https://github.com/BorisNovi/littleTasks/tree/master/APIToLearn)
+* Work with VK API [Look on GitHub](https://github.com/BorisNovi/VK-API-friends-monitor)
 * Work with Kitsu API (Not pushed, only on local machine)
 * Studying project for LearnJS [Look on GitHub](https://github.com/BorisNovi/jsbasic-20221028_borisnovikov4815)
 
