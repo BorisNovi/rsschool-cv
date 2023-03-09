@@ -84,8 +84,8 @@ ___
 
 ___
 
-### Education 
-* Rostov Autotransport College 
+### Education
+* Rostov Autotransport College
 * Rostov Railway Transport University
 * Javascript Course by learn.javascript.ru "JavaScript/DOM/Interfaces" [Certificate](https://learn.javascript.ru/courses/jsbasic-20221028/borisnovikov4815/en/certificate.jpg)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
