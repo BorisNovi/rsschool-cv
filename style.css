@@ -68,6 +68,17 @@ a {
   margin: 2%;
 }
 
+#profile {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.profile-headers {
+  margin: 8% 10%;
+}
+
 .section-title {
   color: var(--main-font-color);
   font-size: 26px;
