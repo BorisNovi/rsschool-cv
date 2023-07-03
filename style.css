@@ -131,6 +131,7 @@ a {
   border-radius: 10px;
   padding: 1%;
   background-color: var(--elements-bg-color);
+  transition: .3s;
 }
 
 .snippet-expand:checked ~ pre .snippet-code{
@@ -152,15 +153,51 @@ a {
   text-decoration: none;
 }
 
+.course img {
+  width: 40%;
+}
+
+.language-item {
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.footer-links p {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.github-link,
+.rs-link {
+  transition: .3s;
+}
+.github-link img,
+.rs-link img{
+  width: 70%;
+}
+
 @media screen and (hover: hover) {
   .nav-link:hover {
     color: var(--sub-font-color);
   }
+
   .contact a:hover {
     color: var(--sub-font-color);
   }
 
   .snippet-label:hover {
     background-color: var(--menu-bg-color);
+  }
+
+  .github-link:hover,
+  .rs-link:hover {
+    transform: scale(0.95);
   }
 }
