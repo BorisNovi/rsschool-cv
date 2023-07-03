@@ -120,6 +120,36 @@ a {
 .snippet-code {
   font-size: 16px;
   border-radius: 10px;
+  height: 20vh;
+}
+
+.snippet-label {
+  cursor: pointer;
+  font-weight: 300;
+  font-size: 18px;
+  border: 1px dotted var(--sub-font-color);
+  border-radius: 10px;
+  padding: 1%;
+  background-color: var(--elements-bg-color);
+}
+
+.snippet-expand:checked ~ pre .snippet-code{
+  height: 100vh;
+}
+
+.project-list {
+  list-style: decimal;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.project-item {
+  margin: 3%;
+  width: 40%;
+}
+
+.project-item a {
+  text-decoration: none;
 }
 
 @media screen and (hover: hover) {
@@ -128,5 +158,9 @@ a {
   }
   .contact a:hover {
     color: var(--sub-font-color);
+  }
+
+  .snippet-label:hover {
+    background-color: var(--menu-bg-color);
   }
 }
