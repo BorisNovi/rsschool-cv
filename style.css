@@ -1,0 +1,132 @@
+:root {
+  --main-bg-color: #c3c5d8;
+  --footer-bg-color: #A89788;
+  --menu-bg-color: #9691A8;
+  --elements-bg-color: #D0C6F5;
+  --main-font-color: #0C0A23;
+  --sub-font-color: #3C4553;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: var(--main-bg-color);
+}
+
+a {
+  color: var(--main-font-color);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header,
+.main,
+.footer {
+  border: 1px dotted var(--sub-font-color);
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: var(--menu-bg-color);
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 1.5em;
+  color: var(--main-font-color);
+  transition: .3s;
+}
+
+.section {
+  border: 1px dotted var(--sub-font-color);
+  border-radius: 10px;
+  padding: 2%;
+  margin: 2%;
+}
+
+.section-title {
+  color: var(--main-font-color);
+  font-size: 26px;
+}
+
+.section-subtitle {
+  color: var(--sub-font-color);
+  font-size: 22px;
+}
+
+.profile-image {
+  width: 20%;
+  border-radius: 10px;
+}
+
+.contacts-list {
+  list-style: none;
+  font-weight: 300;
+}
+
+.contact-item {
+  margin: 3%;
+  width: 350px;
+}
+
+.contact-item a {
+  color: var(--main-font-color);
+  text-decoration: none;
+  padding: 2%;
+  font-size: 20px;
+}
+
+.paragraph {
+  width: 60%;
+  margin: 3%;
+  padding: 0 0 0 40px;
+  font-weight: 300;
+  line-height: 1.8em;
+  font-size: 20px;
+}
+
+.skill-list {
+  list-style: none;
+  font-weight: 300;
+}
+
+.skill-item {
+  margin: 3%;
+  font-size: 20px;
+}
+
+.snippet-code {
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+@media screen and (hover: hover) {
+  .nav-link:hover {
+    color: var(--sub-font-color);
+  }
+  .contact a:hover {
+    color: var(--sub-font-color);
+  }
+}
